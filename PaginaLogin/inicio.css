@@ -1,0 +1,20 @@
+.pagini{
+    background-image: url(imagens/inicio.jpg);
+    background-size: cover;
+}
+
+h1{
+    font-family: 'Sedgwick Ave Display', cursive;
+    color: rgb(67, 116, 19);
+    font-size: 80pt;
+    text-align: center;
+}
+
+.volta{
+   text-align: center;
+}
+
+.botao{
+    background-color: rgb(87, 64, 26);
+    color: white;
+}
